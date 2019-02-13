@@ -1,0 +1,6 @@
+﻿Source Entropy:                   4.487712771661157
+Provided File Compressed Entropy: 4.858789339677769
+My Huffman Compression Entropy:   4.594797840665612
+
+My Huffman Compression achived better compression than the
+original compressed file. 
